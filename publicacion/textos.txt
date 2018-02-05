@@ -1,24 +1,44 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA OFICIAL DE ESPIEL
 
-DescripciÃ³n completa (4000)
-===========================
 
-Etiquetas	
-===========
+Descripción breve:
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Guía con información de interés de Espiel
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
+Descripción completa:
 
-Sitio web
-=========
 
-Correo electrÃ³nico
-==================
+Con esta Aplicación “Guía Oficial de Espiel ”, tendrás a nuestro pueblo al alcance de un click.
 
+Es una aplicación desarrollada por el Ayuntamiento de Espiel y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+
+Con esta aplicación, ofrecemos una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Espiel  desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a nuestra localidad.
+
+El inmenso término municipal de Espiel, alberga numerosos ecosistemas, tan dispares como bosque mediterráneo, bosque repoblado de pinares, bosque de galería, roquedos o el pantano de Puente Nuevo, entre otros,  que confieren esta peculiaridad a nuestro territorio.
+
+Su casco urbano que combina la modernidad con la tradición, te invita a perderte entre sus calles y disfrutar de la tranquilidad de un pueblo serrano.
+
+Espiel nació del vientre de la tierra,
+en vetas de carbón, boliche y greda;
+energía que en su interior se encierra
+y fluye a la luz donde se queda.
+Aquí hombres brillaron entre gentes,
+tenidas en su tiempo por lucientes.
+
+El valle se derrama sobre el rio,
+el pueblo se despeña por su calle,
+el monte mira al pueblo con hastío,
+¡calle, rio, monte y valle!
+¡Quisiste decorar Naturaleza
+a un pueblo que llenaste de belleza!
+
+Ese es el pueblo de mi nacimiento
+donde vaga por calles mi recuerdo,
+mi niñez, juventud, mi pensamiento,
+que, a veces, parece loco y otras cuerdo.
+Viviré por tu calle, monte y rio
+que, aunque tuyo, también lo siento mío.
+
+                            (Antonio Giménez Azcona)
